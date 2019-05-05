@@ -6,8 +6,7 @@ title: Chunming Gu's CV
 PhD student. School of Medicine, Johns Hopkins University
 
 <div id="https://github.com/ChunmingGu">
-<a href="cgu15@jhmi.edu">cgu15@jhmi.edu</a>
-  
+<a href="cgu15@jhmi.edu">cgu15@jhmi.edu</a>  
 </div>
 
 

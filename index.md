@@ -1,91 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chunming Gu's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chunming Gu
+PhD student. School of Medicine, Johns Hopkins University
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="https://github.com/ChunmingGu">
+<a href="cgu15@jhmi.edu">cgu15@jhmi.edu</a>
+  
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+MRI, Medical Imaging.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2018`
+__Xi'an Jiaotong University, China.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`August 2018 - now`
+__Johns Hopkins University School of Medicine, MD__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=VwYoxLIAAAAJ&hl=en#) -->
 
-### Journals
+### Journal Publications
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2018`
+S Zhang, R Xu, S Shang, Y Han, S Liu, T Xu, C Gu, X Zhu, G Niu, M Wan. In vivo monitoring of microwave ablation in a
+porcine model using ultrasonic differential attenuation coefficient intercept imaging. International Journal of
+Hyperthermia, 2018, 34:1-14. 
 
-`1669`
-Lectiones opticæ.
+S Zhang, S Shang, Y Han, C Gu, S Wu, S Liu, G Niu, A Bouakaz, M Wan. Ex vivo and in vivo monitoring and
+characterization of thermal lesions by high-intensity focused ultrasound and microwave ablation using ultrasonic
+Nakagami imaging. IEEE Transactions on Medical Imaging, 2018, 37(7):1701-1710.
 
-etc. etc. etc.
+### Conference Proceedings
 
-### Patents
+'2019'
+Adrian G Paez, Suraj Rajan, Grace-Anna Chaney, Xinyuan Miao, Di Cao, Chunming Gu, Dapeng G Liu, Alex Y
+Pantelyat, Liana I Rosenthal, Zoltan K Mari, Kelly Mills, Ted M Dawson, Peter C. M. van Zijl, Susan S Bassett, David M
+Yousem, Vidyulata Kamath, and Jun G Hua. "Olfactory functional MRI (fMRI) using T2-prepared BOLD fMRI at ultra-high field (7T)",
+International Society for Magnetic Resonance in Medicine, 2019
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+'2018'
+Gao, Y., C. Gu, J. Kim, M. Cao, J. Fu, A. Kalbasi, D. Ruan et al. "Treatment Response Prediction Using Texture Features
+From Longitudinal Diffusion MRI in Sarcoma Patients." In MEDICAL PHYSICS, vol. 45, no. 6, pp. E582-E582. 111 RIVER
+ST, HOBOKEN 07030-5774, NJ USA: WILEY, 2018.
 
+Y Gao, C Gu, J Kim, M Cao, A Kalbasi, D Ruan, D Low, P Hu, and Y Yang, “Longitudinal Diffusion MRI for Predicting
+Response to Radiotherapy in Sarcoma Patients”, Abstract, International Society for Magnetic Resonance in
+Medicine, 2018
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+'2017'
+S Zhang, S Shang, Y Han, R Xu, C Gu, L Zhang, S Wu, G Niu, and M Wan, “In Vivo
+and Ex Vivo Monitoring of Thermal Ablation in a Porcine Model Using Ultrasonic Nakagami Imaging”, Oral,
+International Society for Therapeutic Ultrasound, 2017
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
 
 

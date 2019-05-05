@@ -17,10 +17,8 @@ MRI, Medical Imaging.
 
 ## Education
 
-`2014-2018`
-__Xi'an Jiaotong University, China.__
 
-`August 2018 - now`
+`2018 - now`
 __Johns Hopkins University School of Medicine, MD__
 
 

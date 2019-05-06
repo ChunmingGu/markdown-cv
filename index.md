@@ -19,7 +19,7 @@ MRI, Medical Imaging.
 
 
 `2018 - now`
-__Johns Hopkins University School of Medicine, MD__
+__Johns Hopkins University, School of Medicine, MD__
 
 
 ## Publications

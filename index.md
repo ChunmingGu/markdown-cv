@@ -3,7 +3,7 @@ layout: cv
 title: Chunming Gu's CV
 ---
 # Chunming Gu
-PhD student. School of Medicine, Johns Hopkins University
+PhD student, School of Medicine, Johns Hopkins University
 
 <div id="https://github.com/ChunmingGu">
 <a href="cgu15@jhmi.edu">cgu15@jhmi.edu</a>  
@@ -12,17 +12,17 @@ PhD student. School of Medicine, Johns Hopkins University
 
 ### Research interests
 
-MRI, Medical Imaging.
+MRI, Medical Imaging, Data Science, Machine Learning.
 
 
 ## Education
 
 
 `2018 - now`
-__Johns Hopkins University School of Medicine, MD__
+__School of Medicine, Johns Hopkins University, MD, USA__
 
 `2014-2018`
-__Xi'an Jiaotong University, China__
+__School of Life Science and Technology, Xi'an Jiaotong University, China__
 
 
 ## Publications

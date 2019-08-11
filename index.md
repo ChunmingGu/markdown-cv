@@ -3,7 +3,7 @@ layout: cv
 title: Chunming Gu's CV
 ---
 # Chunming Gu
-PhD student, School of Medicine, Johns Hopkins University
+PhD student, Johns Hopkins University School of Medicine
 
 <div id="https://github.com/ChunmingGu">
 <a href="cgu15@jhmi.edu">cgu15@jhmi.edu</a>  

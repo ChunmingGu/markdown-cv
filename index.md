@@ -19,10 +19,10 @@ MRI, Medical Imaging, Data Science, Machine Learning.
 
 
 `2018 - Present`
-__, Biomedical Engineering, Johns Hopkins University School of Medicine, MD, USA__
+__Biomedical Engineering, Johns Hopkins University School of Medicine, MD, USA__
 
 `2014-2018`
-__, Biomedical Engineering, Xi'an Jiaotong University, Shaanxi, China__
+__Biomedical Engineering, Xi'an Jiaotong University, Shaanxi, China__
 
 
 ## Publications

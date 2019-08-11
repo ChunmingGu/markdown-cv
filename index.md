@@ -18,7 +18,7 @@ MRI, Medical Imaging, Data Science, Machine Learning.
 ## Education
 
 
-`2018 - now`
+`2018 - Present`
 __School of Medicine, Johns Hopkins University, MD, USA__
 
 `2014-2018`
